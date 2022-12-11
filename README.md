@@ -25,6 +25,6 @@ Python Based Project
 >12. **_Advanced Data Structure_** <br />
 
 # Developer Profile
-[LinkedIn Profile](https://gaganpreetkaurkalsi.netlify.app/)
+[LinkedIn Profile](https://www.linkedin.com/in/vijay-anand-b9510911a/)
 
 
