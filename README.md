@@ -11,6 +11,6 @@ Python Based Project
 >5. **_Object Oriented and Modules_** <br />
 
 # Developer Profile
-[LinkedIn Profile](https://gaganpreetkaurkalsi.netlify.app/)
+[LinkedIn Profile](https://www.linkedin.com/in/vijay-anand-b9510911a/)
 
 
