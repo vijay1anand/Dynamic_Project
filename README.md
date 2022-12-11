@@ -10,6 +10,12 @@ Python Based Project
 >> - Counter
 >5. **_Object Oriented and Modules_** <br />
 
+# Python OOC and Error Handling  (python_start)
+>1. **_Object Oriented Concepts_** <br />
+>2. **_Exception Handling_** <br />
+
+
+
 # Developer Profile
 [LinkedIn Profile](https://gaganpreetkaurkalsi.netlify.app/)
 
